@@ -12,7 +12,7 @@ async function blobToBuffer(blob) {
 async function main() {
   try {
     // Ruta de la imagen de entrada
-    const inputPath = "./input-image.png";
+    const inputPath = "./FotoPerfil1.jpeg";
     // Ruta de la imagen de salida
     const outputPath = "./output-image.png";
 
